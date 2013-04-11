@@ -15,6 +15,11 @@ import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
+/* Esta es una clase para testear los scores de la aplicaci—n, este
+ * crea un archivo con puntuaciones aleatorias, aunque tambien tiene un 
+ * metodo que le inserta basura al score para analizar el comportamiento de la aplicacion
+ * en estos casos. 
+ * */
 
 public class TestCaseFileBuilder {
 
